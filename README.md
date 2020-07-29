@@ -7,10 +7,12 @@ My task was testing this app's UI with Espresso automation testing tools. What w
 them, everything is given below.
 
 
+
 Objectives:
 
 My objective was to write Espresso automation testing code to launch the app, Inserting First and Second player name. After that I have to click the start button to begin
 the game.
+
 
 
 Before Testing:
@@ -30,12 +32,13 @@ ViewAssertions - allows to assert state of a view
 The case construct for Espresso tests is the following:
 
 onView(ViewMatcher)       
- .perform(ViewAction)     
-   .check(ViewAssertion);    
+  .perform(ViewAction)     
+    .check(ViewAssertion);    
 
 https://developer.android.com/training/testing/espresso/basics
 
 https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf
+
 
 
 Writing code for Testing:
@@ -78,6 +81,7 @@ As previously I searched for  the Start button’s Id and then performed an acti
 Then I run the script. The app was launching but the test was not passing, with an error message :
 
 “android.support.test.espresso.NoMatchingViewException:No views in hierarchy found matching: with id: jetray.tictactoe:id/playerone”
+
 
 
 
