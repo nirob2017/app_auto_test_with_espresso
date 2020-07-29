@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jul 19 00:50:22 BDT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\NIROB\\Desktop\\Tic-Tac-Toe-master\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
