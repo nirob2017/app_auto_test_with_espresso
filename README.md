@@ -23,9 +23,9 @@ to simulate user interactions within the app, everything from clicking buttons a
 
 Espresso has basically three components:
 
-ViewMatchers - allows to find view in the current view hierarchy
-ViewActions - allows to perform actions on the views
-ViewAssertions - allows to assert state of a view
+- ViewMatchers - allows to find view in the current view hierarchy
+- ViewActions - allows to perform actions on the views
+- ViewAssertions - allows to assert state of a view
 
 The case construct for Espresso tests is the following:
  ```java
@@ -68,17 +68,17 @@ onView(withId(R.id.playertwo)).perform(replaceText("Shanto"), closeSoftKeyboard(
 onView() method is to match one view within the current view hierarchy. 
 withId() matcher for narrowing down the view search of component id.
 
- ```java perform(replaceText("") ``` is a action to inserting text in the text field, here i could’ve used typeText() method instead of using replaceText("") method. I used 
-replaceText("") due to there being some predefined text on the text field like “player 1 name”.
+ ```perform(replaceText("") ``` is a action to inserting text in the text field, here i could’ve used typeText() method instead of using replaceText("") method. I used 
+ ```replaceText("")``` due to there being some predefined text on the text field like “player 1 name”.
 
- ```java closeSoftKeyboard()``` method used for when inserting the name or text the keyboard covers the half screen of the view screen that's why i used this method.
+ ```closeSoftKeyboard()``` method used for when inserting the name or text the keyboard covers the half screen of the view screen that's why i used this method.
 
 For clicking the Start Button i wrote code as follows:
 
- ```java
+```java
 onView(withId(R.id.start)).perform(click());
- ```
-As previously I searched for  the Start button’s Id and then performed an action using click() function.
+```
+As previously I searched for  the Start button’s Id and then performed an action using ```click()``` function.
 
 Then I run the script. The app was launching but the test was not passing, with an error message :
 ```error
@@ -90,8 +90,9 @@ Then I run the script. The app was launching but the test was not passing, with 
 So I rechecked the espresso code and the full script there was no error on the code but from the error message I learnt it couldn’t find the id of the components.Then 
 I ran the app on emulator I found that when launching the app there was picture on the view then after few second there were the text field and the button on the view.
 
- In the code I found after @Rule annotations:
+In the code I found in the @Rule annotations:
 ```java
+@Rule
 PublicActivityTestRule<SplashScreen>mActivityTestRule=newActivityTestRule<>(SplashScreen.class);
  ```
 That means when I am running the test it's running on “SplashScreen” class.
@@ -101,6 +102,7 @@ So I went for the java>jetray.tictoe>SplashScreen class. There I found that ther
 code like “delaymills: 4000”. I also went to Afterstart and MainActivity classes where I found these variables but Afterstart was used for playing the game and MainActivity
 class was used when Inserting name and for starting the game. So, I changed the code after @Rule annotations as follows: 
 ```java
+@Rule
 PublicActivityTestRule<MainActivity>mActivityTestRule=newActivityTestRule<>(MainActivity.class);
  ```
 I again ran the test script , and this time the test was successful.
@@ -112,8 +114,8 @@ As the app delays in the splash screen 4 seconds then it comes to MainActivity. 
 SplashScreen class,I wrote code as follows:  
 ```java
 SystemClock.sleep(4000);
- ```
-And after the @Rule annotation I changed the code as before:
+```
+And the @Rule annotation I changed the code as before:
 ```java
 @Rule
 public ActivityTestRule<SplashScreen> mActivityTestRule = new ActivityTestRule<>(SplashScreen.class);
