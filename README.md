@@ -30,7 +30,7 @@ ViewActions - allows to perform actions on the views
 ViewAssertions - allows to assert state of a view
 
 The case construct for Espresso tests is the following:
- ```JAVA
+ ```espresso
 onView(ViewMatcher)       
   .perform(ViewAction)     
     .check(ViewAssertion);    
@@ -49,8 +49,8 @@ I had to open a class in java>jetray.tictoe in hierarchy named “Testing_I_O_an
 
 In the class I found some imported classes that are needed to run testing scripts.
 In the public class section I found @Rule section:
- ```espresso
-"PublicActivityTestRule<SplashScreen>mActivityTestRule=newActivityTestRule<>(SplashScreen.class);"
+ ```java
+PublicActivityTestRule<SplashScreen>mActivityTestRule=newActivityTestRule<>(SplashScreen.class);
  ```
 
 Note that the @Rule annotation means that this is a JUnit4 test rule. JUnit4 test rules are run before and after every test method (annotated with @Test). Below this code
@@ -94,7 +94,7 @@ I ran the app on emulator I found that when launching the app there was picture 
 
  In the code I found after @Rule annotations:
   ```espresso
-"PublicActivityTestRule<SplashScreen>mActivityTestRule=newActivityTestRule<>(SplashScreen.class);"
+PublicActivityTestRule<SplashScreen>mActivityTestRule=newActivityTestRule<>(SplashScreen.class);
  ```
 That means when I am running the test it's running on “SplashScreen” class.
 
@@ -103,7 +103,7 @@ So I went for the java>jetray.tictoe>SplashScreen class. There I found that ther
 code like “delaymills: 4000”. I also went to Afterstart and MainActivity classes where I found these variables but Afterstart was used for playing the game and MainActivity
 class was used when Inserting name and for starting the game. So, I changed the code after @Rule annotations as follows: 
   ```espresso
-"PublicActivityTestRule<MainActivity>mActivityTestRule=newActivityTestRule<>(MainActivity.class);"
+PublicActivityTestRule<MainActivity>mActivityTestRule=newActivityTestRule<>(MainActivity.class);
  ```
 I again ran the test script , and this time the test was successful.
 But I was instructed and given that I had to run the test within the SplashScreen class. So i googled how to delay the testing. 
@@ -116,7 +116,7 @@ SplashScreen class,I wrote code as follows:
 SystemClock.sleep(4000);
  ```
 And after the @Rule annotation I changed the code as before:
-  ```espresso
+```espresso
 @Rule
 public ActivityTestRule<SplashScreen> mActivityTestRule = new ActivityTestRule<>(SplashScreen.class);
  ```
