@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e66ef01758bdc2baf2a326b192f8314c\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12729b44b7cb439143e35330aade5238\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\525a95d7d8d22508ed46b6aa6ad39e57\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\23b1ed5e2009fbf32d1f282ba6564821\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\c782393d49a51e770db99cdb66a2c484\AndroidManifest.xml:17:1-28:12
@@ -18,31 +18,31 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\NIROB\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b848efc11881e4367b450e56243de295\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c300db3a386a33793a2790d5b3f9bb4e\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2b8f1b8b7ade58227e43ae9d324d78c1\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e66ef01758bdc2baf2a326b192f8314c\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e66ef01758bdc2baf2a326b192f8314c\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12729b44b7cb439143e35330aade5238\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12729b44b7cb439143e35330aade5238\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\525a95d7d8d22508ed46b6aa6ad39e57\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\525a95d7d8d22508ed46b6aa6ad39e57\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\23b1ed5e2009fbf32d1f282ba6564821\AndroidManifest.xml:22:5-26:19
@@ -66,63 +66,63 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NIROB\.gradle\c
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2b8f1b8b7ade58227e43ae9d324d78c1\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2b8f1b8b7ade58227e43ae9d324d78c1\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:10:9-40
 activity#jetray.tictactoe.MainActivity
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:screenOrientation
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:14:13-49
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:14:13-49
 	android:label
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:13:13-45
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:13:13-45
 	android:theme
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:15:13-56
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:12:13-41
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:12:13-41
 activity#jetray.tictactoe.Afterstart
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:18:9-22:59
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:18:9-22:59
 	android:screenOrientation
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:21:13-49
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:21:13-49
 	android:label
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:20:13-62
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:20:13-62
 	android:theme
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:19:13-39
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:19:13-39
 activity#jetray.tictactoe.SplashScreen
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:23:9-32:20
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:23:9-32:20
 	android:screenOrientation
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:25:13-49
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:25:13-49
 	android:theme
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:26:13-43
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:26:13-43
 	android:name
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:24:13-41
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:24:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:design:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e66ef01758bdc2baf2a326b192f8314c\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e66ef01758bdc2baf2a326b192f8314c\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12729b44b7cb439143e35330aade5238\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12729b44b7cb439143e35330aade5238\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6aa17f07430b50198d1161ba7952490d\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\525a95d7d8d22508ed46b6aa6ad39e57\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\525a95d7d8d22508ed46b6aa6ad39e57\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\23b1ed5e2009fbf32d1f282ba6564821\AndroidManifest.xml:20:5-44
@@ -145,18 +145,18 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NIROB\.gradle\c
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c300db3a386a33793a2790d5b3f9bb4e\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2b8f1b8b7ade58227e43ae9d324d78c1\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2b8f1b8b7ade58227e43ae9d324d78c1\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e66ef01758bdc2baf2a326b192f8314c\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\NIROB\Desktop\Tic-Tac-Toe-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NIROB\Desktop\app_auto_test_with_espresso\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e66ef01758bdc2baf2a326b192f8314c\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\NIROB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12729b44b7cb439143e35330aade5238\AndroidManifest.xml:26:9-28:38

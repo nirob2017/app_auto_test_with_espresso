@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tic-Tac-Toe-master.iml" filepath="$PROJECT_DIR$/Tic-Tac-Toe-master.iml" group="Tic-Tac-Toe-master" />
-      <module fileurl="file://$PROJECT_DIR$/app/Tic-Tac-Toe-master-app.iml" filepath="$PROJECT_DIR$/app/Tic-Tac-Toe-master-app.iml" group="Tic-Tac-Toe-master/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app_auto_test_with_espresso.iml" filepath="$PROJECT_DIR$/.idea/modules/app_auto_test_with_espresso.iml" group="app_auto_test_with_espresso" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app_auto_test_with_espresso-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app_auto_test_with_espresso-app.iml" group="app_auto_test_with_espresso/app" />
     </modules>
   </component>
 </project>
