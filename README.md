@@ -68,7 +68,7 @@ onView(withId(R.id.playertwo)).perform(replaceText("Shanto"), closeSoftKeyboard(
 onView() method is to match one view within the current view hierarchy. 
 withId() matcher for narrowing down the view search of component id.
 
- ```perform(replaceText("") ``` is a action to inserting text in the text field, here i could’ve used typeText() method instead of using replaceText("") method. I used 
+ ```perform(replaceText("") ``` is a action to inserting text in the text field, here i could’ve used typeText() method instead of using ```replaceText("")``` method. I used 
  ```replaceText("")``` due to there being some predefined text on the text field like “player 1 name”.
 
  ```closeSoftKeyboard()``` method used for when inserting the name or text the keyboard covers the half screen of the view screen that's why i used this method.
@@ -99,7 +99,7 @@ That means when I am running the test it's running on “SplashScreen” class.
 
 In the academics I had some experience building “Hello World” types of android apps.
 So I went for the java>jetray.tictoe>SplashScreen class. There I found that there were no variables or attributes like “playerone”, “playertwo”, “start”.  And found some 
-code like “delaymills: 4000”. I also went to Afterstart and MainActivity classes where I found these variables but Afterstart was used for playing the game and MainActivity
+code like ```delaymills: 4000```. I also went to Afterstart and MainActivity classes where I found these variables but Afterstart was used for playing the game and MainActivity
 class was used when Inserting name and for starting the game. So, I changed the code after @Rule annotations as follows: 
 ```java
 @Rule
