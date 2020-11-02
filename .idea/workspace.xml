@@ -7,7 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b6f6201-5975-44c5-ab71-450ab56a0857" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-11-02-20-27-38-421.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-11-02-20-27-38-421.rawproto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/jetray/tictactoe/ExampleUnitTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +21,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Galaxy_Nexus_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -53,9 +59,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
-    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.last.edited" value="Build Variants" />
     <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RunManager" selected="Android Instrumented Tests.Testing_I_O_and_Click">
     <configuration name="Testing_I_O_and_Click" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
@@ -355,30 +364,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="258" key="#PSD" timestamp="1604327281214">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="258" key="#PSD/0.0.1920.1050@0.0.1920.1050" timestamp="1604327281214" />
     <state x="679" y="170" key="#Testing_I_O_and_Click" timestamp="1604074050727">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="679" y="170" key="#Testing_I_O_and_Click/0.0.1920.1050@0.0.1920.1050" timestamp="1604074050727" />
-    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1596053969723">
+    <state width="1349" height="248" key="GridCell.Tab.0.bottom" timestamp="1604093423065">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1237" height="268" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1596042330834" />
-    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596053969723" />
-    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1596053969723">
+    <state width="1349" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1604093423065" />
+    <state width="1349" height="248" key="GridCell.Tab.0.center" timestamp="1604093423065">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1237" height="268" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1596042330834" />
-    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596053969723" />
-    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1596053969722">
+    <state width="1349" height="248" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1604093423065" />
+    <state width="1349" height="248" key="GridCell.Tab.0.left" timestamp="1604093423065">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1237" height="268" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1596042330833" />
-    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596053969722" />
-    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1596053969723">
+    <state width="1349" height="248" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1604093423065" />
+    <state width="1349" height="248" key="GridCell.Tab.0.right" timestamp="1604093423065">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1237" height="268" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1596042330834" />
-    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596053969723" />
+    <state width="1349" height="248" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1604093423065" />
     <state x="122" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1596041887589">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
